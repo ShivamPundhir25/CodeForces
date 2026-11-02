@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 
 ---
 
@@ -21,6 +21,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 
 ---
 
