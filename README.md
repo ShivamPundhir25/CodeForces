@@ -6,15 +6,46 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 1 |
+| 6 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (6)
+- [math](#math) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
 ### implementation
 
@@ -22,7 +53,22 @@
 |---|---------|------------|----------|
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
+| 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 
 ---
 
