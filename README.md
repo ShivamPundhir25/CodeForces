@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 10 |
+| 18 | 10 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (8)
+- [strings](#strings) (9)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -72,6 +72,7 @@
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/499/B%20-%20Lecture/solution.java) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
@@ -100,6 +101,7 @@
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.java) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/499/B%20-%20Lecture/solution.java) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 766A | [Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/766/A%20-%20Mahmoud%20and%20Longest%20Uncommon%20Subsequence/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
