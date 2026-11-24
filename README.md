@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 10 |
+| 17 | 10 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -65,6 +65,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
@@ -94,6 +95,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/43/A%20-%20Football/solution.java) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.java) |
