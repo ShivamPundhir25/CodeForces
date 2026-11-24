@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 10 |
+| 14 | 10 |
 
 ---
 
@@ -16,11 +16,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (10)
 - [math](#math) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -55,6 +55,7 @@
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
@@ -94,6 +95,7 @@
 | 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/43/A%20-%20Football/solution.java) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.java) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
 ### two pointers
