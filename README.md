@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 11 |
+| 27 | 11 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (17)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (9)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (5)
@@ -100,6 +100,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
