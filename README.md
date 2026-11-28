@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 11 |
+| 28 | 11 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (17)
-- [math](#math) (3)
+- [implementation](#implementation) (18)
+- [math](#math) (4)
 - [sortings](#sortings) (9)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (5)
@@ -84,6 +84,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.java) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/499/B%20-%20Lecture/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
@@ -100,6 +101,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/ShivamPundhir25/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
